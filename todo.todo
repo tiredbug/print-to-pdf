@@ -1,0 +1,28 @@
+Theme Options:
+  ☐ Change the query string
+  ☐ Select base template
+  ☐ Set output directory
+  ☐ Header Height
+  ☐ General Options
+
+Misc:
+ ☐ Create site
+   ☐ Template Gallery
+ ☐ Shell Exec to various OS
+   ☐ Auto Detect OS
+ ☐ Cache
+ ☐ Header/Footers
+   ☐ Hierarchy
+ ☐ URL Shortcode/Template Tags
+ ☐ Favicon
+ ☐ Print shortcut redirects to PDF version if available
+
+Error:
+ ☐ File/Folder doesn't exist
+ ☐ Permission Issues
+
+Documentation:
+ ☐ Make sure to set img{max-width: 100%;} etc
+   ☐ Unlike the DOM, PDF's will fit overflown elements by shrinking everything else
+ ☐ Header/Footer still need it's own CSS
+ ☐ No default template files allow an duplicate of the site at screen width 800 (or whatever)
